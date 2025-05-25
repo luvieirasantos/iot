@@ -62,17 +62,8 @@ https://resource.heltec.cn/download/package_heltec_esp32_index.json
 ---
 
 ## 📁 Estrutura do Projeto
-esp32-ble-zonas/
-│
-├── src/
-│ └── IOT-BLE.ino // Código-fonte Arduino
-│ └── codigo_IOT.txt // Código-fonte em texto
-├── images/
-│ └── testeVisãoComputacional1.jpg // imagem 1 do teste para visão computacional
-│ └── testeVisãoComputacional2.jpg // imagem 2 do teste para visão computacional
-│ └── testeVisãoComputacional3.jpg // imagem 3 do teste para visão computacional
-│── Funcionamento_Conexão.mp4 // Vídeo demonstrativo do funcionamento da conexão bluetooth com o celular
-└── README.md // Este arquivo
+
+![estrutura](estrutura_projeto.png)
 
 ---
 
